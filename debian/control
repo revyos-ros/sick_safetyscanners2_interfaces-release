@@ -1,0 +1,12 @@
+Source: ros-galactic-sick-safetyscanners2-interfaces
+Section: misc
+Priority: optional
+Maintainer: Lennart Puck <puck@fzi.de>
+Build-Depends: debhelper (>= 9.0.0), ros-galactic-ament-cmake, ros-galactic-ament-lint-auto, ros-galactic-ament-lint-common, ros-galactic-rosidl-default-generators, ros-galactic-sensor-msgs, ros-galactic-ros-workspace, ros-galactic-rosidl-typesupport-fastrtps-c, ros-galactic-rosidl-typesupport-fastrtps-cpp
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-galactic-sick-safetyscanners2-interfaces
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-galactic-rosidl-default-runtime, ros-galactic-sensor-msgs, ros-galactic-ros-workspace
+Description: Interfaces for the sick_safetyscanners ros2 driver
