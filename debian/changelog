@@ -1,0 +1,7 @@
+ros-humble-sick-safetyscanners2-interfaces (1.0.0-2jammy) jammy; urgency=high
+
+  * Initial Release
+
+ -- Lennart Puck <puck@fzi.de>  Sun, 10 Jan 2021 23:00:00 -0000
+
+
