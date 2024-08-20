@@ -1,3 +1,26 @@
+## sick_safetyscanners2_interfaces (jazzy) - 1.0.0-1
+
+The packages in the `sick_safetyscanners2_interfaces` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release --ros-distro jazzy --track jazzy sick_safetyscanners2_interfaces` on `Tue, 20 Aug 2024 14:59:06 -0000`
+
+The `sick_safetyscanners2_interfaces` package was released.
+
+Version of package(s) in repository `sick_safetyscanners2_interfaces`:
+
+- upstream repository: https://github.com/SICKAG/sick_safetyscanners2_interfaces.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.0.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.24.0`
+- rosdistro version: `0.9.1`
+- vcstools version: `0.1.42`
+
+
 ## sick_safetyscanners2_interfaces (iron) - 1.0.0-1
 
 The packages in the `sick_safetyscanners2_interfaces` repository were released into the `iron` distro by running `/usr/bin/bloom-release --ros-distro iron --track iron sick_safetyscanners2_interfaces` on `Mon, 31 Jul 2023 13:14:09 -0000`
